@@ -6,7 +6,7 @@ During the conversion process, each image is:
 
 - Resized to the desired dimensions.
 - Converted to grayscale.
-- make it blur
+- make it blur.
 - Converted to PNG format.
 
 The processed images are then saved to a new output folder specified by the user.
